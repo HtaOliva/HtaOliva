@@ -10,7 +10,7 @@
 #
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="25" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" height="25" alt="java logo"  />
   <img width="12" />
