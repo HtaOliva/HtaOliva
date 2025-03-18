@@ -9,10 +9,6 @@
 
 #
 
-<img align="right" height="150" src="https://media.tenor.com/1G7KLUiquh0AAAAi/typing-fast.gif"  />
-
-#
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
   <img width="12" />
