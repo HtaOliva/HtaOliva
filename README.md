@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" height="25" alt="mysql logo"  />
   <img width="12" />
   <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" height="25" alt="kotlin logo"  />
   <img width="12" />
